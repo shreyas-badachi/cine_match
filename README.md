@@ -4,6 +4,8 @@ A movie discovery app where multiple users can each save movies they want to wat
 
 Submission for the **Platform Commons Flutter Developer take-home assignment**.
 
+📦 **[Download v1.0.0 APK](https://github.com/shreyas-badachi/cine_match/releases/download/v1.0.0/app-release.apk)** — install on any Android device (requires "Install from unknown sources" enabled). 58.8 MB. The app keys are baked in, so the reviewer can run it without setting up `.env`.
+
 ---
 
 ## What the app does
